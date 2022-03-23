@@ -3,6 +3,10 @@
 
 ### [ERD](https://github.com/jonghyeon95/simstargram.git)
 
+### 사용 기술
+### BACK : Spring Boot, Spring Securiy, JPA, My Batis
+### VIEW : Thymeleaf, JQuery
+### DB : MY SQL
 
 ### 구현기능 리스트
 * 로그인

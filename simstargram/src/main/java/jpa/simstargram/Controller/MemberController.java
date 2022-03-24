@@ -15,12 +15,14 @@ public class MemberController {
 
     @GetMapping("/login")
     public String loginForm() {
-        return "login";
+
+        return "Member/login";
     }
 
     @GetMapping("/join")
     public String joinForm() {
-        return "join";
+
+        return "Member/join";
     }
 
     @PostMapping("/join")

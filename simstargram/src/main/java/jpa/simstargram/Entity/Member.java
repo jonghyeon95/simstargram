@@ -13,7 +13,6 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-@Setter
 public class Member extends BaseEntity {
 
     @Id

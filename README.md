@@ -1,3 +1,5 @@
+#진행중지, 미구현
+
 ## [simstargram](https://github.com/jonghyeon95/simstargram)
 ### JPA 공부를 위한 Instagram 기능 모방 토이 프로젝트
 
